@@ -1,5 +1,3 @@
-import bannerImage from '/banner-image.jpg'; // Importera bilden
-
 // Den tar emot en prop "title" som är en sträng
 function Banner({ title }: { title: string }) {
   return (
